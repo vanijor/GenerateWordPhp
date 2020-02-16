@@ -1,0 +1,1 @@
+#Para gerar um arquivo no word necessita baixar pelo gerenciador de dependencias o https://github.com/PHPOffice/PHPWord
